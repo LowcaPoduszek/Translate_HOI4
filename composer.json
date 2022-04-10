@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "mk-j/php_xlsxwriter": "^0.38.0"
+    },
+    "require": {
+        "aspera/xlsx-reader": "^0.10.1"
+    }
+}
